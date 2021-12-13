@@ -1,0 +1,64 @@
+body {
+    background-image: url("lol.jpg");
+    background-size: cover;
+	background-repeat: no repeat;
+	background-attachment: fixed;
+	background-color: gray;
+	font-family: Roboto; 
+	font-size: 20;
+	overflow: scroll;
+}
+
+
+
+.options {
+margin: 0;
+padding: 0;
+font-family: Century Gothic;
+font-size: 60px;
+}
+
+
+ul {
+float: right;
+font-size: 25px;
+}
+
+ul li {
+display: inline-block;
+}
+
+ul li a {
+
+text-decoration: none;
+color: white;
+border: 2px solid white;
+padding: 5px 10px;
+margin: 2px;
+border-width: 2px;
+}
+ul li a:hover {
+background-color: white;
+color: #000;
+}
+
+h1 {
+color: MintCream;
+font-size: 125px;
+height: 60px;
+font-family: Gabriola;
+text-shadow: 5px 5px 100px navy;
+}
+
+h2 {
+color: MintCream;
+font-family: Fragment Core;
+font-size: 30;
+text-shadow: 5px 5px 50px black;
+}
+
+.paragraph {
+font-size: 40px;
+color: MintCream;
+}
+
